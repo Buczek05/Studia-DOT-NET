@@ -23,8 +23,8 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\TextAnalytics.Core\TextAnalytics.Core.csproj" />
-      <ProjectReference Include="..\TextAnalytics.Services\TextAnalytics.Services.csproj" />
+      <ProjectReference Include="..\..\src\TextAnalytics.Core\TextAnalytics.Core.csproj" />
+      <ProjectReference Include="..\..\src\TextAnalytics.Services\TextAnalytics.Services.csproj" />
     </ItemGroup>
 
 </Project>
